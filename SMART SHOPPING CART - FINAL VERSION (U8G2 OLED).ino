@@ -41,7 +41,7 @@ U8G2_SSD1306_128X64_NONAME_F_HW_I2C u8g2(U8G2_R0, U8X8_PIN_NONE);
 #define WIFI_PASSWORD "8547931827"
 
 // ================= FIREBASE =================
-#define API_KEY "AIzaSyDjtLzC1gTg6hjnpNdsD7H1iq2tvyjUwPI"
+#define API_KEY "FIRE BASE APIKEY"
 #define DATABASE_URL "https://smart-shopping-cart-264b0-default-rtdb.firebaseio.com/"
 
 #define USER_EMAIL "smartcart@gmail.com"
